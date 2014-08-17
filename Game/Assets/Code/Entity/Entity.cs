@@ -8,6 +8,7 @@ public class Entity : Game {
 
 	void Update () {}
 
-	protected void takePlayerHealth(int amount) {}
+	protected void takePlayerHealth(int amount) {
 		playerHealth = playerHealth - amount;
 	}
+}
