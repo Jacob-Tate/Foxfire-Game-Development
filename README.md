@@ -1,3 +1,3 @@
-Read-Me :D
+The "Game" folder is our current project.
 
-Maybe someday when I'm bored I'll atcually say something :O
+I'll write more when I feel like it
