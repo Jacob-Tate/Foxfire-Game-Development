@@ -4,11 +4,10 @@ using System.Collections;
 public class Entity : Game {
 
 
-	void Start () {
-	
-	}
+	void Start () {}
 
-	void Update () {
-	
+	void Update () {}
+
+	protected void takePlayerHealth(int amount) {}
+		playerHealth = playerHealth - amount;
 	}
-}
